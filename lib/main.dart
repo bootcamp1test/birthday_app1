@@ -1,6 +1,7 @@
 import 'package:birthday_app/home_screen.dart';
 import 'package:flutter/material.dart';
 
+//Github is best
 void main() {
   runApp(const MyApp());
 }
